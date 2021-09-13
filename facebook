@@ -11,6 +11,8 @@
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 www.connect.facebook.net
 0.0.0.0 www.facebook.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 gateway.facebook.com
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
 0.0.0.0 www.graph.facebook.com
